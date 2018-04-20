@@ -1,11 +1,3 @@
-# comp-bio
-# comp-bio
-# comp-bio
-# comp-bio
-# comp-bio
-# comp-bio
+# R code
 # single_cell
-# single_cell
-# single_cell
-# single_cell
-# single_cell
+# for recovery purpose
